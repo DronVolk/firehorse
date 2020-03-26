@@ -5,7 +5,7 @@
 
 .DEFAULT_GOAL := all
 
-DEVICE = nokia6
+DEVICE = mido
 BUILD_DIR = ./build
 LD_SCRIPT := ./fh.ld
 
